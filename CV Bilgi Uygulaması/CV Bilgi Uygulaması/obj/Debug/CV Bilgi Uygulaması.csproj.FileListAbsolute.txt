@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\CV Bilgi Uygulaması\CV Bilgi Uygulaması\obj\Debug\CV Bilgi Uygulaması.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CV Bilgi Uygulaması\CV Bilgi Uygulaması\obj\Debug\CV Bilgi Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\CV Bilgi Uygulaması\CV Bilgi Uygulaması\obj\Debug\CV_Bilgi_Uygulaması.Form1.resources
+C:\Users\user\source\repos\CV Bilgi Uygulaması\CV Bilgi Uygulaması\obj\Debug\CV_Bilgi_Uygulaması.Properties.Resources.resources
+C:\Users\user\source\repos\CV Bilgi Uygulaması\CV Bilgi Uygulaması\obj\Debug\CV Bilgi Uygulaması.csproj.GenerateResource.cache
+C:\Users\user\source\repos\CV Bilgi Uygulaması\CV Bilgi Uygulaması\obj\Debug\CV Bilgi Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CV Bilgi Uygulaması\CV Bilgi Uygulaması\bin\Debug\CV Bilgi Uygulaması.exe.config
+C:\Users\user\source\repos\CV Bilgi Uygulaması\CV Bilgi Uygulaması\bin\Debug\CV Bilgi Uygulaması.exe
+C:\Users\user\source\repos\CV Bilgi Uygulaması\CV Bilgi Uygulaması\bin\Debug\CV Bilgi Uygulaması.pdb
+C:\Users\user\source\repos\CV Bilgi Uygulaması\CV Bilgi Uygulaması\obj\Debug\CV Bilgi Uygulaması.exe
+C:\Users\user\source\repos\CV Bilgi Uygulaması\CV Bilgi Uygulaması\obj\Debug\CV Bilgi Uygulaması.pdb
